@@ -6,3 +6,5 @@ Tecnologies:
 -Javascript
 -css
 -API Gifhy
+-Jest
+-React-testing-library
